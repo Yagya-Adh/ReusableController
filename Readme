@@ -1,0 +1,8 @@
+Main idea:-
+
+        -Make a inheritance, with  reusable parent code.
+
+        -There are multiple ways  for reusable code.
+        (follow design pattern also while making code reusable.)
+
+Move your all logics into a basecontroller class and extent (inherite it to other controller Class)
